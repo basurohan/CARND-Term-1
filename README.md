@@ -1,6 +1,6 @@
-# Project files for Self Driving Car Nanodegree
+# Project files for Self Driving Car Nanodegree Term 1
 
-### Term 1 Projects
+### Projects
 * CarNd-LaneLines-P1
   * Project to detect lane lines in images and video clips using Python and OpenCV.
 * CarND-Traffic-Sign-Classifier-Project
